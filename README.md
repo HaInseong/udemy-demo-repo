@@ -1,4 +1,5 @@
-# Udemy 마크다운 배우기 - Git Merge Conflict by 개발자 2
+# Udemy 마크다운 배우기 - Git Conflict by 개발자 1
+
 
 안녕하세요 Tov에요
 
